@@ -1,0 +1,21 @@
+ul.colored {
+  background-color: rgb(8, 175, 241);
+  outline: 1px solid black;
+}
+ul.colored li {
+  background-color: burlywood;
+  outline: 1px solid black;
+}
+ul.colored li h1 {
+  background-color: coral;
+  outline: 1px solid black;
+}
+ul.colored li p {
+  background-color: pink;
+  outline: 1px solid black;
+}
+
+img {
+  width: 300px;
+  height: 200px;
+}
